@@ -1,0 +1,29 @@
+.text-hr {
+    text-align: center;
+    color: orange;
+    font-family: Lucida Sans;
+}
+
+.text-h3 {
+    text-align: center;
+    color: orange;
+}
+
+.text-h4 {
+    color: teal;
+    font-family: Lucida Sans;
+}
+
+.text-tr {
+    text-align: center;
+    border-collapse: collapse;
+    font-family: Lucida Sans;
+    color: orange;
+    background-color: aqua;
+}
+
+.table, th, td {
+    text-align: center;
+    border: 1px solid orange;
+    padding: 8px 20px;
+}
