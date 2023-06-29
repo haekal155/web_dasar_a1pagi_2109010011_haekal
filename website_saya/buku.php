@@ -43,6 +43,9 @@ require "controllers/functions.php";
             <tr>
                 <td><?= $b["id"]; ?></td>
                 <td><?= $b["judul_buku"]; ?></td>
+                <td><?= $b["tahun_terbit"]; ?></td>
+                <td><?= $b["penulis"]; ?></td>
+                <td><?= $b["penerbit"]; ?></td>
             </tr>
         <?php endforeach;
         ?>
