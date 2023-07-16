@@ -7,7 +7,8 @@
     <title>Edit Mahasiswa</title>
 </head>
 <body>
-    <h1>Data Mahasiswa</h1>
-    <a href="tambah_mahasiswa.php">Edit Mahasiswa</a>
+    <h1>Form Edit Mahasiswa</h1>
+    <a href="../Pertemuan 5 Teori/">Kembali</a>
+    
 </body>
 </html>
