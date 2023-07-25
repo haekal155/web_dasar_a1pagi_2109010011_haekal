@@ -24,20 +24,20 @@
         <tr class="tr1">
             <td>1</td>
             <td>2109010011</td>
-            <td>ARYOK GANTENG</td>
-            <td>Lakik</td>
+            <td>Kal</td>
+            <td>Laki-Laki</td>
             <td>01/01/1999</td>
-            <td>MARTUBUNG</td>
+            <td>Medan</td>
             <td>Sistem Informasi</td>
             <td><a href="edit.mahasiswa.php">Edit</a></td>
         </tr>
         <tr class="tr2">
             <td>2</td>
             <td>2109010012</td>
-            <td>Masbro</td>
-            <td>Lakik</td>
+            <td>Bro</td>
+            <td>Laki-Laki</td>
             <td>01/01/2121</td>
-            <td>simatu</td>
+            <td>Medan</td>
             <td>Data Sains</td>
             <td><a href="edit.mahasiswa.php">Edit</a></td>
 
